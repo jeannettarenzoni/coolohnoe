@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://liwaecool.ofonesandzeros.com/sitemap.xml
